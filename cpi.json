@@ -2,6 +2,7 @@
     "metadata": {
         "full_name": "consumer_price_index_(cpi)",
         "full_units": "percent",
+        "second_full_units": "percent_change_from_q_ago",
         "seasonality": "not_seasonally_adjusted",
         "period": "quarterly",
         "yaxis": "percent_change",

@@ -2,6 +2,7 @@
     "metadata": {
         "full_name": "producer_price_index_(ppi)",
         "full_units": "percent",
+        "second_full_units": "Index 100 = 01.01.2015",
         "seasonality": "not_seasonally_adjusted",
         "period": "quarterly",
         "yaxis": "Index 100 = 01.01.2015",

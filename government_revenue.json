@@ -2,6 +2,7 @@
     "metadata": {
         "full_name": "government_revenue",
         "full_units": "rubles",
+        "second_full_units": "cum_rub_start_of_y",
         "seasonality": "not_seasonally_adjusted",
         "period": "monthly",
         "yaxis": "rubles",

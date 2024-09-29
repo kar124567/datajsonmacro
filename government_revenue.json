@@ -1,0 +1,911 @@
+{
+    "metadata": {
+        "full_name": "government_revenue",
+        "full_units": "rubles",
+        "seasonality": "not_seasonally_adjusted",
+        "period": "monthly",
+        "yaxis": "rubles",
+        "first_date_observe": "01.01.2006",
+        "last_date_observe": "01.08.2024",
+        "last_observation": "13485725841279.1rub. (01.08.2024)",
+        "updated": "29.09.2024"
+    },
+    "data": [
+        {
+            "date": "01.01.2006",
+            "government_revenue": 5125092762760.311
+        },
+        {
+            "date": "01.02.2006",
+            "government_revenue": 449352728754.2701
+        },
+        {
+            "date": "01.03.2006",
+            "government_revenue": 875828983955.4501
+        },
+        {
+            "date": "01.04.2006",
+            "government_revenue": 1399111226415.6
+        },
+        {
+            "date": "01.05.2006",
+            "government_revenue": 1878678626887.0
+        },
+        {
+            "date": "01.06.2006",
+            "government_revenue": 2396822972830.96
+        },
+        {
+            "date": "01.07.2006",
+            "government_revenue": 2938084138952.73
+        },
+        {
+            "date": "01.08.2006",
+            "government_revenue": 3462753377605.25
+        },
+        {
+            "date": "01.09.2006",
+            "government_revenue": 4028710573047.01
+        },
+        {
+            "date": "01.10.2006",
+            "government_revenue": 4561041395905.0
+        },
+        {
+            "date": "01.11.2006",
+            "government_revenue": 5102403816551.65
+        },
+        {
+            "date": "01.12.2006",
+            "government_revenue": 5661289654880.52
+        },
+        {
+            "date": "01.01.2007",
+            "government_revenue": 6276298153893.12
+        },
+        {
+            "date": "01.02.2007",
+            "government_revenue": 436161992665.31
+        },
+        {
+            "date": "01.03.2007",
+            "government_revenue": 888175290922.22
+        },
+        {
+            "date": "01.04.2007",
+            "government_revenue": 1421918441947.2
+        },
+        {
+            "date": "01.05.2007",
+            "government_revenue": 1924932005940.31
+        },
+        {
+            "date": "01.06.2007",
+            "government_revenue": 2510587834884.64
+        },
+        {
+            "date": "01.07.2007",
+            "government_revenue": 3245705142836.76
+        },
+        {
+            "date": "01.08.2007",
+            "government_revenue": 3874558960137.75
+        },
+        {
+            "date": "01.09.2007",
+            "government_revenue": 4509852194735.92
+        },
+        {
+            "date": "01.10.2007",
+            "government_revenue": 5087561337216.68
+        },
+        {
+            "date": "01.11.2007",
+            "government_revenue": 6187309571940.53
+        },
+        {
+            "date": "01.12.2007",
+            "government_revenue": 6889691935651.54
+        },
+        {
+            "date": "01.01.2008",
+            "government_revenue": 7779104196029.86
+        },
+        {
+            "date": "01.02.2008",
+            "government_revenue": 691297178626.64
+        },
+        {
+            "date": "01.03.2008",
+            "government_revenue": 1322498478750.77
+        },
+        {
+            "date": "01.04.2008",
+            "government_revenue": 1932666386858.66
+        },
+        {
+            "date": "01.05.2008",
+            "government_revenue": 3024509509779.23
+        },
+        {
+            "date": "01.06.2008",
+            "government_revenue": 3700151168180.96
+        },
+        {
+            "date": "01.07.2008",
+            "government_revenue": 4370723732694.46
+        },
+        {
+            "date": "01.08.2008",
+            "government_revenue": 5676810467775.3
+        },
+        {
+            "date": "01.09.2008",
+            "government_revenue": 6404501851904.55
+        },
+        {
+            "date": "01.10.2008",
+            "government_revenue": 7155716952011.63
+        },
+        {
+            "date": "01.11.2008",
+            "government_revenue": 8092779944214.2
+        },
+        {
+            "date": "01.12.2008",
+            "government_revenue": 8663354688962.31
+        },
+        {
+            "date": "01.01.2009",
+            "government_revenue": 9274109204281.45
+        },
+        {
+            "date": "01.02.2009",
+            "government_revenue": 771980940451.59
+        },
+        {
+            "date": "01.03.2009",
+            "government_revenue": 1220265525083.04
+        },
+        {
+            "date": "01.04.2009",
+            "government_revenue": 1732690222010.01
+        },
+        {
+            "date": "01.05.2009",
+            "government_revenue": 2221444700111.65
+        },
+        {
+            "date": "01.06.2009",
+            "government_revenue": 2641423305527.09
+        },
+        {
+            "date": "01.07.2009",
+            "government_revenue": 3172159047540.63
+        },
+        {
+            "date": "01.08.2009",
+            "government_revenue": 3805779345319.05
+        },
+        {
+            "date": "01.09.2009",
+            "government_revenue": 4645784304088.93
+        },
+        {
+            "date": "01.10.2009",
+            "government_revenue": 5114423489649.5
+        },
+        {
+            "date": "01.11.2009",
+            "government_revenue": 5787631018441.13
+        },
+        {
+            "date": "01.12.2009",
+            "government_revenue": 6445910114942.67
+        },
+        {
+            "date": "01.01.2010",
+            "government_revenue": 7336772956303.35
+        },
+        {
+            "date": "01.02.2010",
+            "government_revenue": 737562864900.49
+        },
+        {
+            "date": "01.03.2010",
+            "government_revenue": 1308334683260.84
+        },
+        {
+            "date": "01.04.2010",
+            "government_revenue": 1954885475108.74
+        },
+        {
+            "date": "01.05.2010",
+            "government_revenue": 2618273297675.56
+        },
+        {
+            "date": "01.06.2010",
+            "government_revenue": 3195670318941.69
+        },
+        {
+            "date": "01.07.2010",
+            "government_revenue": 3997865067949.24
+        },
+        {
+            "date": "01.08.2010",
+            "government_revenue": 4658436956359.73
+        },
+        {
+            "date": "01.09.2010",
+            "government_revenue": 5300464445957.3
+        },
+        {
+            "date": "01.10.2010",
+            "government_revenue": 6008628374003.19
+        },
+        {
+            "date": "01.11.2010",
+            "government_revenue": 6721539104069.43
+        },
+        {
+            "date": "01.12.2010",
+            "government_revenue": 7431669269591.75
+        },
+        {
+            "date": "01.01.2011",
+            "government_revenue": 8303835026318.88
+        },
+        {
+            "date": "01.02.2011",
+            "government_revenue": 804858264305.5
+        },
+        {
+            "date": "01.03.2011",
+            "government_revenue": 1505608535039.42
+        },
+        {
+            "date": "01.04.2011",
+            "government_revenue": 2392782446110.94
+        },
+        {
+            "date": "01.05.2011",
+            "government_revenue": 3339693631575.92
+        },
+        {
+            "date": "01.06.2011",
+            "government_revenue": 4200038231124.32
+        },
+        {
+            "date": "01.07.2011",
+            "government_revenue": 5306370215739.31
+        },
+        {
+            "date": "01.08.2011",
+            "government_revenue": 6233830071852.08
+        },
+        {
+            "date": "01.09.2011",
+            "government_revenue": 7220201346146.32
+        },
+        {
+            "date": "01.10.2011",
+            "government_revenue": 8213020023857.31
+        },
+        {
+            "date": "01.11.2011",
+            "government_revenue": 9240763212987.64
+        },
+        {
+            "date": "01.12.2011",
+            "government_revenue": 10164760608889.4
+        },
+        {
+            "date": "01.01.2012",
+            "government_revenue": 11365994360762.1
+        },
+        {
+            "date": "01.02.2012",
+            "government_revenue": 1059559186092.93
+        },
+        {
+            "date": "01.03.2012",
+            "government_revenue": 1865966004550.69
+        },
+        {
+            "date": "01.04.2012",
+            "government_revenue": 2966312911908.13
+        },
+        {
+            "date": "01.05.2012",
+            "government_revenue": 4058679968839.58
+        },
+        {
+            "date": "01.06.2012",
+            "government_revenue": 5083326696536.45
+        },
+        {
+            "date": "01.07.2012",
+            "government_revenue": 6200399469666.17
+        },
+        {
+            "date": "01.08.2012",
+            "government_revenue": 7245938153556.83
+        },
+        {
+            "date": "01.09.2012",
+            "government_revenue": 8352074068291.65
+        },
+        {
+            "date": "01.10.2012",
+            "government_revenue": 9385360674690.98
+        },
+        {
+            "date": "01.11.2012",
+            "government_revenue": 10453225369717.1
+        },
+        {
+            "date": "01.12.2012",
+            "government_revenue": 11404844845746.5
+        },
+        {
+            "date": "01.01.2013",
+            "government_revenue": 12853681358818.6
+        },
+        {
+            "date": "01.02.2013",
+            "government_revenue": 1093098625259.27
+        },
+        {
+            "date": "01.03.2013",
+            "government_revenue": 1981299780536.15
+        },
+        {
+            "date": "01.04.2013",
+            "government_revenue": 3105607446515.57
+        },
+        {
+            "date": "01.05.2013",
+            "government_revenue": 4110577423193.785
+        },
+        {
+            "date": "01.06.2013",
+            "government_revenue": 5115547399872.0
+        },
+        {
+            "date": "01.07.2013",
+            "government_revenue": 6257653734046.12
+        },
+        {
+            "date": "01.08.2013",
+            "government_revenue": 7330012276888.13
+        },
+        {
+            "date": "01.09.2013",
+            "government_revenue": 8418161569106.34
+        },
+        {
+            "date": "01.10.2013",
+            "government_revenue": 9604469961843.67
+        },
+        {
+            "date": "01.11.2013",
+            "government_revenue": 10740597345288.2
+        },
+        {
+            "date": "01.12.2013",
+            "government_revenue": 11758713035519.1
+        },
+        {
+            "date": "01.01.2014",
+            "government_revenue": 8164669214019.02
+        },
+        {
+            "date": "01.02.2014",
+            "government_revenue": 295623744006.6
+        },
+        {
+            "date": "01.03.2014",
+            "government_revenue": 863065585334.97
+        },
+        {
+            "date": "01.04.2014",
+            "government_revenue": 1790566387555.81
+        },
+        {
+            "date": "01.05.2014",
+            "government_revenue": 2840516184912.19
+        },
+        {
+            "date": "01.06.2014",
+            "government_revenue": 3493055475966.12
+        },
+        {
+            "date": "01.07.2014",
+            "government_revenue": 4052063036694.97
+        },
+        {
+            "date": "01.08.2014",
+            "government_revenue": 5067470821911.4
+        },
+        {
+            "date": "01.09.2014",
+            "government_revenue": 5704735123524.52
+        },
+        {
+            "date": "01.10.2014",
+            "government_revenue": 6325358099039.58
+        },
+        {
+            "date": "01.11.2014",
+            "government_revenue": 7246066178840.07
+        },
+        {
+            "date": "01.12.2014",
+            "government_revenue": 7834539397929.46
+        },
+        {
+            "date": "01.01.2015",
+            "government_revenue": 8905457282402.85
+        },
+        {
+            "date": "01.02.2015",
+            "government_revenue": 310173519371.49
+        },
+        {
+            "date": "01.03.2015",
+            "government_revenue": 803460135660.89
+        },
+        {
+            "date": "01.04.2015",
+            "government_revenue": 2005830457998.44
+        },
+        {
+            "date": "01.05.2015",
+            "government_revenue": 3163825973948.29
+        },
+        {
+            "date": "01.06.2015",
+            "government_revenue": 3846571598746.8
+        },
+        {
+            "date": "01.07.2015",
+            "government_revenue": 4495565221518.02
+        },
+        {
+            "date": "01.08.2015",
+            "government_revenue": 5540399148117.47
+        },
+        {
+            "date": "01.09.2015",
+            "government_revenue": 6144576155871.31
+        },
+        {
+            "date": "01.10.2015",
+            "government_revenue": 6812108850619.8
+        },
+        {
+            "date": "01.11.2015",
+            "government_revenue": 7678593198967.9
+        },
+        {
+            "date": "01.12.2015",
+            "government_revenue": 8306260390149.55
+        },
+        {
+            "date": "01.01.2016",
+            "government_revenue": 9308151580194.45
+        },
+        {
+            "date": "01.02.2016",
+            "government_revenue": 360385513999.18
+        },
+        {
+            "date": "01.03.2016",
+            "government_revenue": 880286398245.83
+        },
+        {
+            "date": "01.04.2016",
+            "government_revenue": 1991536839821.17
+        },
+        {
+            "date": "01.05.2016",
+            "government_revenue": 3126378594037.64
+        },
+        {
+            "date": "01.06.2016",
+            "government_revenue": 3910255280208.46
+        },
+        {
+            "date": "01.07.2016",
+            "government_revenue": 4616788234111.91
+        },
+        {
+            "date": "01.08.2016",
+            "government_revenue": 5547667679887.43
+        },
+        {
+            "date": "01.09.2016",
+            "government_revenue": 6333390812216.89
+        },
+        {
+            "date": "01.10.2016",
+            "government_revenue": 7031425007063.22
+        },
+        {
+            "date": "01.11.2016",
+            "government_revenue": 8016178490805.11
+        },
+        {
+            "date": "01.12.2016",
+            "government_revenue": 8835900664482.82
+        },
+        {
+            "date": "01.01.2017",
+            "government_revenue": 9923833762085.9
+        },
+        {
+            "date": "01.02.2017",
+            "government_revenue": 493724807065.33
+        },
+        {
+            "date": "01.03.2017",
+            "government_revenue": 1047065533359.25
+        },
+        {
+            "date": "01.04.2017",
+            "government_revenue": 2325625202519.87
+        },
+        {
+            "date": "01.05.2017",
+            "government_revenue": 3258863354895.63
+        },
+        {
+            "date": "01.06.2017",
+            "government_revenue": 4278381937455.83
+        },
+        {
+            "date": "01.07.2017",
+            "government_revenue": 5048965210596.79
+        },
+        {
+            "date": "01.08.2017",
+            "government_revenue": 6085201328068.63
+        },
+        {
+            "date": "01.09.2017",
+            "government_revenue": 6882888448867.73
+        },
+        {
+            "date": "01.10.2017",
+            "government_revenue": 7584277345157.32
+        },
+        {
+            "date": "01.11.2017",
+            "government_revenue": 8723656093336.24
+        },
+        {
+            "date": "01.12.2017",
+            "government_revenue": 9585599552700.66
+        },
+        {
+            "date": "01.01.2018",
+            "government_revenue": 10758161006139.5
+        },
+        {
+            "date": "01.02.2018",
+            "government_revenue": 557770012781.02
+        },
+        {
+            "date": "01.03.2018",
+            "government_revenue": 1200538822180.49
+        },
+        {
+            "date": "01.04.2018",
+            "government_revenue": 2485463880814.28
+        },
+        {
+            "date": "01.05.2018",
+            "government_revenue": 3621084332345.42
+        },
+        {
+            "date": "01.06.2018",
+            "government_revenue": 4716930258587.56
+        },
+        {
+            "date": "01.07.2018",
+            "government_revenue": 5540704613675.44
+        },
+        {
+            "date": "01.08.2018",
+            "government_revenue": 6840030576965.75
+        },
+        {
+            "date": "01.09.2018",
+            "government_revenue": 7732977372023.02
+        },
+        {
+            "date": "01.10.2018",
+            "government_revenue": 8476720273718.71
+        },
+        {
+            "date": "01.11.2018",
+            "government_revenue": 9921455448252.41
+        },
+        {
+            "date": "01.12.2018",
+            "government_revenue": 10916090933255.2
+        },
+        {
+            "date": "01.01.2019",
+            "government_revenue": 12392449437392.3
+        },
+        {
+            "date": "01.02.2019",
+            "government_revenue": 640133310547.06
+        },
+        {
+            "date": "01.03.2019",
+            "government_revenue": 1371354291272.96
+        },
+        {
+            "date": "01.04.2019",
+            "government_revenue": 2766656572015.29
+        },
+        {
+            "date": "01.05.2019",
+            "government_revenue": 4440410432975.03
+        },
+        {
+            "date": "01.06.2019",
+            "government_revenue": 5407021344727.51
+        },
+        {
+            "date": "01.07.2019",
+            "government_revenue": 6198866949811.93
+        },
+        {
+            "date": "01.08.2019",
+            "government_revenue": 7704532169399.96
+        },
+        {
+            "date": "01.09.2019",
+            "government_revenue": 8627028340832.78
+        },
+        {
+            "date": "01.10.2019",
+            "government_revenue": 9490012721988.76
+        },
+        {
+            "date": "01.11.2019",
+            "government_revenue": 10986946669075.6
+        },
+        {
+            "date": "01.12.2019",
+            "government_revenue": 12021916686566.3
+        },
+        {
+            "date": "01.01.2020",
+            "government_revenue": 13572402788259.1
+        },
+        {
+            "date": "01.02.2020",
+            "government_revenue": 667775386280.95
+        },
+        {
+            "date": "01.03.2020",
+            "government_revenue": 1426278374640.44
+        },
+        {
+            "date": "01.04.2020",
+            "government_revenue": 3063052335563.45
+        },
+        {
+            "date": "01.05.2020",
+            "government_revenue": 4388339310059.01
+        },
+        {
+            "date": "01.06.2020",
+            "government_revenue": 5398098494106.33
+        },
+        {
+            "date": "01.07.2020",
+            "government_revenue": 6330663591125.4
+        },
+        {
+            "date": "01.08.2020",
+            "government_revenue": 7864962548604.87
+        },
+        {
+            "date": "01.09.2020",
+            "government_revenue": 8899261459674.22
+        },
+        {
+            "date": "01.10.2020",
+            "government_revenue": 9970172530471.37
+        },
+        {
+            "date": "01.11.2020",
+            "government_revenue": 11510775796566.3
+        },
+        {
+            "date": "01.12.2020",
+            "government_revenue": 12814149761492.7
+        },
+        {
+            "date": "01.01.2021",
+            "government_revenue": 14901172321254.1
+        },
+        {
+            "date": "01.02.2021",
+            "government_revenue": 669772953380.58
+        },
+        {
+            "date": "01.03.2021",
+            "government_revenue": 1499905154375.75
+        },
+        {
+            "date": "01.04.2021",
+            "government_revenue": 3410409864684.87
+        },
+        {
+            "date": "01.05.2021",
+            "government_revenue": 5178400695915.26
+        },
+        {
+            "date": "01.06.2021",
+            "government_revenue": 6292379058826.79
+        },
+        {
+            "date": "01.07.2021",
+            "government_revenue": 7509091374396.08
+        },
+        {
+            "date": "01.08.2021",
+            "government_revenue": 9295513852571.2
+        },
+        {
+            "date": "01.09.2021",
+            "government_revenue": 10686300537590.0
+        },
+        {
+            "date": "01.10.2021",
+            "government_revenue": 11924096602131.8
+        },
+        {
+            "date": "01.11.2021",
+            "government_revenue": 13755599956184.6
+        },
+        {
+            "date": "01.12.2021",
+            "government_revenue": 15349624921556.8
+        },
+        {
+            "date": "01.01.2022",
+            "government_revenue": 17546324333436.1
+        },
+        {
+            "date": "01.02.2022",
+            "government_revenue": 941298402387.0
+        },
+        {
+            "date": "01.03.2022",
+            "government_revenue": 1971000836795.99
+        },
+        {
+            "date": "01.04.2022",
+            "government_revenue": 4349541450550.65
+        },
+        {
+            "date": "01.05.2022",
+            "government_revenue": 6461726506619.62
+        },
+        {
+            "date": "01.06.2022",
+            "government_revenue": 7982213693503.51
+        },
+        {
+            "date": "01.07.2022",
+            "government_revenue": 9372846314663.49
+        },
+        {
+            "date": "01.08.2022",
+            "government_revenue": 11299804315514.4
+        },
+        {
+            "date": "01.09.2022",
+            "government_revenue": 12750078520353.2
+        },
+        {
+            "date": "01.10.2022",
+            "government_revenue": 14056981031842.8
+        },
+        {
+            "date": "01.11.2022",
+            "government_revenue": 15869435282088.1
+        },
+        {
+            "date": "01.12.2022",
+            "government_revenue": 17429673022324.2
+        },
+        {
+            "date": "01.01.2023",
+            "government_revenue": 19676909767656.7
+        },
+        {
+            "date": "01.02.2023",
+            "government_revenue": 891279163728.21
+        },
+        {
+            "date": "01.03.2023",
+            "government_revenue": 1288595469100.58
+        },
+        {
+            "date": "01.04.2023",
+            "government_revenue": 4908812219775.79
+        },
+        {
+            "date": "01.05.2023",
+            "government_revenue": 7181342806373.84
+        },
+        {
+            "date": "01.06.2023",
+            "government_revenue": 8541275831841.35
+        },
+        {
+            "date": "01.07.2023",
+            "government_revenue": 10334569653968.7
+        },
+        {
+            "date": "01.08.2023",
+            "government_revenue": 12417457022689.9
+        },
+        {
+            "date": "01.09.2023",
+            "government_revenue": 13905697418432.1
+        },
+        {
+            "date": "01.10.2023",
+            "government_revenue": 15856519555128.3
+        },
+        {
+            "date": "01.11.2023",
+            "government_revenue": 17641672103137.0
+        },
+        {
+            "date": "01.12.2023",
+            "government_revenue": 19249859720849.5
+        },
+        {
+            "date": "01.01.2024",
+            "government_revenue": 22325111734964.9
+        },
+        {
+            "date": "01.02.2024",
+            "government_revenue": 1037079175699.33
+        },
+        {
+            "date": "01.03.2024",
+            "government_revenue": 2910906070464.46
+        },
+        {
+            "date": "01.04.2024",
+            "government_revenue": 5085073861656.35
+        },
+        {
+            "date": "01.05.2024",
+            "government_revenue": 6019774211497.78
+        },
+        {
+            "date": "01.06.2024",
+            "government_revenue": 9224648921684.93
+        },
+        {
+            "date": "01.07.2024",
+            "government_revenue": 11132266364183.5
+        },
+        {
+            "date": "01.08.2024",
+            "government_revenue": 13485725841279.1
+        }
+    ]
+}
